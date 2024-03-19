@@ -20,8 +20,6 @@ function Qrcode(){
         } ,(err, url) =>{
 
             if(err) return console.error(err)
-
-            console.log(url);
             setQrcode(url)
         }) 
     }
