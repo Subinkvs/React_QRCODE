@@ -50,6 +50,6 @@ button, a{
 img{
   display: block;
   width: 100%;
-  max-width: 480px;
+  max-width: 350px;
   margin: 2rem auto;
 }
